@@ -6,7 +6,9 @@
         "device": "*"
     },
     "files": [
-        "mapping.ts"
+        "README.md",
+        "mapping.ts",
+        "icon.png"
     ],
     "testFiles": [
         "test.ts"
