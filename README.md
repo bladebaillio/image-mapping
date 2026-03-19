@@ -2,14 +2,13 @@
 
 An extension on MakeCode Arcade for image mapping and simple shape-based transforms.
 Use it to map textures into quads, map textures into color regions, and draw outlines.
+The Topic for this extension can be found here: [https://forum.makecode.com/t/image-mapping-extension/]
 
 ## Block Groups
 - Quad Mapping
 - Region Mapping
 - Outlines
 - Query
-
-
 
 ## Quad Mapping
 
